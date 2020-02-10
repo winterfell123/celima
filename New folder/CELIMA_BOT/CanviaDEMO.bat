@@ -1,0 +1,1 @@
+C:\Users\canviademo\AppData\Local\UiPath\app-19.11.0-beta0002\UiRobot.exe  -file "C:\CELIMA_BOT\CelimaProyecto\Main.xaml" 
